@@ -10,6 +10,8 @@
 
 ---
 
+<h3 align="center"> B-Tech Computer Engineering (AI & ML)</h3>
+
 ##  About Me
 
 <p align="center">
